@@ -84,10 +84,10 @@ body {
     position: absolute;
     left: 370px;
     top: 60px;
-    animation: headlightAnim 5s ease-in-out infinite;
+    animation: headlightAnimation 5s ease-in-out infinite;
 }
 
-@keyframes headlightAnim {
+@keyframes headlightAnimation {
     0% {
         opacity: 0;
     }
