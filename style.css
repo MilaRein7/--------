@@ -87,7 +87,7 @@ body {
     animation: headlightAnim 5s ease-in-out infinite;
 }
 
-@keyframes FaryAnimation {
+@keyframes headlightAnim {
     0% {
         opacity: 0;
     }
